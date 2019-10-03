@@ -8,6 +8,6 @@ def subtrair (x,y):
     return x - y
     #Comentario
 
-def dividir (x,y):
+def divisao (x,y):
     return x // y
     
