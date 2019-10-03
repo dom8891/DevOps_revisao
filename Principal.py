@@ -1,4 +1,7 @@
 def somar (x,y):
-    return x * y
+    return x + y
 
+def multiplicar (x,y):
+    return x * y
+    
     #Comentario
