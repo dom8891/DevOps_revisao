@@ -11,3 +11,6 @@ def teste_multiplicar():
 
 def teste_subtrair():
     assert subtrair(290-800)==610
+
+def teste_dividir():
+    assert dividir(6,2)== 3

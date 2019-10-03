@@ -6,5 +6,8 @@ def multiplicar (x,y):
 
 def subtrair (x,y):
     return x - y
-    
     #Comentario
+
+def dividir (x,y):
+    return x // y
+    
